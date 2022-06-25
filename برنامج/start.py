@@ -74,8 +74,8 @@ async def start_(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("𓄼𝐷𝐸𝑉 𝑇𝐼𝑀𝑂𓄹", url=f"https://t.me/uu_u_4"),
-                    InlineKeyboardButton("𓄼𝐷𝐸𝑉 𝐿𝐼𝐷𝑂𓄹", url=f"https://t.me/J0KER7x"),
+                    InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/E_4_1"),
+                    InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/dar4k"),
                 ],
                 [InlineKeyboardButton("𓄼طريقة التفعيل𓄹", callback_data="cbhowtouse")],
                 [InlineKeyboardButton("𓄼الاوامــر𓄹", callback_data="cbcmds"),
@@ -108,8 +108,8 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                [
-                InlineKeyboardButton("𓄼𝐷𝐸𝑉 𝑇𝐼𝑀𝑂𓄹", url=f"https://t.me/uu_u_4"),
-                InlineKeyboardButton("𓄼𝐷𝐸𝑉 𝐿𝐼𝐷𝑂𓄹", url=f"https://t.me/J0KER7x"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/E_4_1"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/dar4k"),
             ],
                 [       
                     InlineKeyboardButton(
@@ -161,8 +161,8 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓄼𝐷𝐸𝑉 𝑇𝐼𝑀𝑂𓄹", url=f"https://t.me/uu_u_4"),
-                InlineKeyboardButton("𓄼𝐷𝐸𝑉 𝐿𝐼𝐷𝑂𓄹", url=f"https://t.me/J0KER7x"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/E_4_1"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/dar4k"),
             ],
             [InlineKeyboardButton("𓄼الاوامــر𓄹", callback_data="cbcmds"),
                 ],
