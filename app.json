@@ -28,7 +28,7 @@
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": "Joker7x_bot"
+            "value": ""
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
@@ -42,17 +42,17 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": "5305593604"
+            "value": ""
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "V_O_T_L"
+            "value": ""
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "T_8_T_T"
+            "value": ""
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
@@ -62,17 +62,17 @@
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا ",
             "required": true,
-            "value": "https://telegra.ph/file/34ef616c6f28ee57a63d4.jpg"
+            "value": ""
         },
         "DEV_NAME": {
             "description": "ضع اسم حساب التليجرام الخاص بالمطور",
             "required": true,
-            "value": "𓄼𝒅𝒆𝒗 𝒗𝒐𝒕𝒍𝒙𓄹" 
+            "value": "" 
         },
         "BOT_NAME": {
             "description": "ضع هنا اسم البوت",
             "required": true,
-            "value": "سونك"
+            "value": ""
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
