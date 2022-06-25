@@ -64,7 +64,7 @@ async def vplay(c: Client, m: Message):
                 InlineKeyboardButton(text="⌯ قائمه تحكم ⌯", callback_data="cbmenu"),
                 InlineKeyboardButton(text="⌯ اغــلاق ⌯", callback_data="cls"),
               ],
-              [InlineKeyboardButton("⌯ 𝐃𝐈𝐀𝐌𝐎𝐍𝐃 𝐌𝐔𝐒𝐈𝐂 🎶 ⌯", url=f"https://t.me/T_8_T_T"),
+              [InlineKeyboardButton("⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡 🎶 ⌯", url=f"https://t.me/E_4_1"),
                 ],
               [InlineKeyboardButton("⌯ اضافه البوت اللي مجموعتك ⌯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),              
             ]
