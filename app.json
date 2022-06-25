@@ -1,16 +1,16 @@
 {
-    "name": "دايموند",
-    "description": "⿻↬──────@T_8_T_T للمعرفة تحديثات تابعوا قناتنا معرف قناتنا",
-    "logo": "https://telegra.ph/file/b6bae5ff811d6b0be0b40.jpg",
+    "name": "تگسن",
+    "description": "⿻↬──────@N1111V للمعرفة تحديثات تابعوا قناتنا معرف قناتنا",
+    "logo": "https://telegra.ph/file/8579b65d4627043733f6d.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/T_8_T_T",
-    "repository": "https://github.com/votlx/soka",
-    "success_url": "https://t.me/votlx",
+    "website": "https://t.me/N1111V",
+    "repository": "https://github.com/B4B4B/hosen",
+    "success_url": "https://t.me/hosen",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -23,7 +23,7 @@
         "BOT_TOKEN": {
             "description": "قم بوضع توكن البوت الخاص بك هنا",
             "required": true,
-            "value": "5086017506:AAH0kLHo57wptdpmDagqUMays_tLAULjUw4"
+            "value": ""
         },
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
