@@ -58,7 +58,7 @@ async def play(c: Client, m: Message):
                 InlineKeyboardButton(text="⌯ قائمه تحكم ⌯", callback_data="cbmenu"),
                 InlineKeyboardButton(text="⌯ اغــلاق ⌯", callback_data="cls"),
                 ],
-              [InlineKeyboardButton("⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡 🎶 ⌯", url=f"https://t.me/E_4_1"),
+              [InlineKeyboardButton("⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡 🎶 ⌯", url=f"https://t.me/N_J_9"),
                 ],
               [InlineKeyboardButton("⌯ اضافه البوت اللي مجموعتك ⌯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),              
             ]
@@ -275,7 +275,7 @@ async def stream(c: Client, m: Message):
                 InlineKeyboardButton(text="⌯ قائمه تحكم ⌯", callback_data="cbmenu"),
                 InlineKeyboardButton(text="⌯ اغــلاق ⌯", callback_data="cls"),
               ],
-              [InlineKeyboardButton("⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡 🎶 ⌯", url=f"https://t.me/E_4_1"),
+              [InlineKeyboardButton("⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡 🎶 ⌯", url=f"https://t.me/N_J_9"),
                 ],
               [InlineKeyboardButton("⌯ اضافه البوت اللي مجموعتك ⌯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),               
             ]
