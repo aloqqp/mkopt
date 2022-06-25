@@ -74,8 +74,8 @@ async def start_(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/E_4_1"),
-                    InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/dar4k"),
+                    InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/N_J_9"),
+                    InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/U_K_M8"),
                 ],
                 [InlineKeyboardButton("𓄼طريقة التفعيل𓄹", callback_data="cbhowtouse")],
                 [InlineKeyboardButton("𓄼الاوامــر𓄹", callback_data="cbcmds"),
@@ -108,12 +108,12 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                [
-                InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/E_4_1"),
-                InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/dar4k"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/N_J_9"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/U_K_M8"),
             ],
                 [       
                     InlineKeyboardButton(
-                        "𓄼𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡 🎶𓄹", url=f"https://t.me/N1111V"
+                        "𓄼𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡 🎶𓄹", url=f"https://t.me/U_K_M8"
                     ),
                 ],
                 [
@@ -161,14 +161,14 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/E_4_1"),
-                InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/dar4k"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/N_J_9"),
+                InlineKeyboardButton("𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/U_K_M8"),
             ],
             [InlineKeyboardButton("𓄼الاوامــر𓄹", callback_data="cbcmds"),
                 ],
             [
                 InlineKeyboardButton(
-                    "⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡  🎶 ⌯", url=f"https://t.me/N1111V"
+                    "⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡  🎶 ⌯", url=f"https://t.me/N_J_9"
                 ),
             ],
             [
