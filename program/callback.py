@@ -28,8 +28,8 @@ async def cbstart(_, query: CallbackQuery):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("𓄼𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/E_4_1"),
-                    InlineKeyboardButton("𓄼𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/dar4k"),
+                    InlineKeyboardButton("𓄼𝗗𝗘𝗩 𝗧𝗫𝗡 ،♥️", url=f"https://t.me/N_J_9"),
+                    InlineKeyboardButton("𓄼𝗗𝗘𝗩 𝗗𝗮𝗥𝗞 ،💛", url=f"https://t.me/U_K_M8"),
                 ],
                 [InlineKeyboardButton("𓄼طريقة التفعيل𓄹", callback_data="cbhowtouse")],
                 [InlineKeyboardButton("𓄼الاوامــر𓄹", callback_data="cbcmds"),
@@ -116,7 +116,7 @@ async def cbbasic(_, query: CallbackQuery):
 ⌯ | لاعادة تشغيل البوت أرسل ↞ ⊰ `ريستارت` ⊱
 ⌯ | لمغادره الحساب المساعد لجميع جروبات أرسل ↞ ⊰ `غادرالجميع` ⊱
 ⊱┉┉┉⊶𓄼•𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗫𝗡•𓄹⊷┉┉┉⊰
-⌯ قناة سورس تگسن ميوزك 🎵  @N1111V
+⌯ قناة سورس تگسن ميوزك 🎵  @U_K_M8
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙رجوع", callback_data="cbcmds")]]
